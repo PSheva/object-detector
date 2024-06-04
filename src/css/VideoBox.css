@@ -1,0 +1,14 @@
+/* /src/css/PlayManager.css */
+.video-box video {
+    max-width: 500px; /* Maximum video width */
+    max-height: 300px; /* Maximum video height */
+    width: 100%; /* Make video responsive within the constraints */
+    height: auto; /* Maintain aspect ratio */
+  }
+
+.video-box{
+
+    max-width: 500px; /* Maximum video width */
+    max-height: 300px;
+    margin-bottom: 35px;
+}

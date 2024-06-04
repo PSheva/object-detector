@@ -1,0 +1,15 @@
+.player_manager{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(250px, 1fr));
+    column-gap: 16px;
+    row-gap: 30px;
+    margin-top: 15px;
+}
+
+.general-buttons{
+    margin-bottom: 50px;
+}
+
+.video-wrapper{
+    margin-bottom: 50px;
+}
